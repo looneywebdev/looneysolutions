@@ -1,0 +1,19 @@
+/* GLOBAL STYLES
+-------------------------- */
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  .jumbotron {
+      background-image: url("meeting2.jpg");
+      /* background-repeat: no-repeat; */
+      background-size: cover;
+      color: white;
+  }
+
+  h2 {
+      text-align: center;
+  }
