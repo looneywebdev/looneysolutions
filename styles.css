@@ -8,11 +8,11 @@ html {
   }
 
   .jumbotron {
-      background-image: url("meeting2.jpg");
-      /* background-repeat: no-repeat; */
-      background-size: cover;
-      color: white;
-  }
+    background-image: url("meeting2.jpg");
+    color: white;
+    background: url("meeting2.jpg") no-repeat center center;
+    height: 35rem;
+}
 
   h2 {
       text-align: center;
